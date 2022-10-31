@@ -1,0 +1,54 @@
+/* Responsive Part Start */
+
+
+    .header{
+        width: 100%;
+        background: rgb(168, 163, 243);
+        height: 80px;
+    }
+    .logo{
+        float: left;
+    }
+    .logo img{
+       padding: 15px;
+    }
+    
+    .menu ul li a{
+        padding-right: 10px;
+        line-height: 70px;
+    }
+    .menu ul li a:hover{
+        color: white;
+    }
+    .logo h1{
+        float: right;
+    }
+    
+    /* slider part start*/
+    
+    .slider{
+        width: 100%;
+     }
+     .slider h1{
+         position: absolute;
+         top: 50%;
+         left: 16%;
+         
+     }
+     .slider p{
+         position: absolute;
+         left: 27%;
+     }
+     
+     .slider a{
+         top: 70%;
+         left: 35%;
+     }
+     .slider a:hover{
+         background: rgb(136, 65, 65);
+         color: white;
+     }
+     
+     /* slider part end */
+     
+    /* Responsive Part End */
